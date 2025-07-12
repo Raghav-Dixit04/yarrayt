@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @yarrayt
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Full Stack and cyber seurity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-yarrayt/yarrayt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎨 Graphic Designer | 🎬 Video Editor | 🛡️ Cybersecurity Analyst
+B.Tech CSE student passionate about blending creativity with technical problem-solving.
+🎨 Graphic Designing and Video editing For clients.
+💻 I build CLI tools, write security walkthroughs (TryHackMe & PortSwigger), and contribute to machine learning & cybersecurity projects.
+📂 Exploring vulnerabilities, analyzing data, and designing digital experiences.
+📫 Open to collaborations in design, security, and open-source.
